@@ -55,7 +55,7 @@ def load_model():
 
 def main():
     st.set_page_config(page_title="Iris Species Classifier", layout="wide")
-    st.title("🌸 Iris Species Classification — Proyecto Final")
+    st.title(" Iris Species Classification — Proyecto Final")
 
     df, iris = load_data()
 
